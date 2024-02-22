@@ -14,11 +14,11 @@ public class Product {
     public Product(){
 
         System.out.println("Product 클래스의 기본 생성자 호출됨...");
-    }
-     //모든 필드를 초기화하는 생성자
+    }//초기화하는 생성자
     public Product(String code, String brand, String name ,int price,Date manufaturingDate){
 
         super();
+     //모든 필드를
         /* 필기.
          *   아무 클래스도 상속받지 않았는데 super() 키워드가 호출 가능
          *   java.lang.Object 클래스의 생성자를 호출하는 것이다.
