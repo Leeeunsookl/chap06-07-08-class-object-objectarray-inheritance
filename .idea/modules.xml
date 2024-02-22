@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/01_lecture-source.iml" filepath="$PROJECT_DIR$/.idea/01_lecture-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap07-object-array-lecture-source.main.iml" filepath="$PROJECT_DIR$/.idea/modules/chap07-object-array-lecture-source.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap07-object-array-lecture-source.test.iml" filepath="$PROJECT_DIR$/.idea/modules/chap07-object-array-lecture-source.test.iml" />
     </modules>
   </component>
 </project>

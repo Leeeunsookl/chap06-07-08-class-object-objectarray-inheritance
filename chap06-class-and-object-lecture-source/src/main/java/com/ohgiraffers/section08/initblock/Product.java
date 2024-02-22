@@ -50,9 +50,19 @@ public class Product {
         System.out.println("매개변수 있는 생성자 호출됨");
     }
 
-    public String getInfo(){
+//    public String getInfo(){
+//
+//        return  "Product [name=" + this.name + ", price=" + this.price + ", brand=" + Product.brand + "]";
+//    }
 
-        return  "Product [name=" + this.name + ", price=" + this.price + ", brand=" + Product.brand + "]";
+
+
+
+    public String getInfo() {
+        return "Product{" +
+                "name='" + name + '\'' +
+                ", price=" + price +
+                '}';
     }
 
 }

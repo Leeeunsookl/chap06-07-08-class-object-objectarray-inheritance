@@ -35,6 +35,11 @@ public class Application {
         for(int i=0; i<iarr.length; i++){
             System.out.print(iarr[i] + " ");
         }
+
+        for(int i: iarr){
+            System.out.println(i + " ");
+        }
+
         System.out.println();
         System.out.println("---------------------------------");
 
