@@ -58,7 +58,7 @@ public class Book {
                 ", author='" + author + '\'' +
                 ", price=" + price +
                 '}';
-    }
+    }       //Object의 후손이기 때문에 오버라이딩 해서 씀
 
     @Override
     public boolean equals(Object o) {

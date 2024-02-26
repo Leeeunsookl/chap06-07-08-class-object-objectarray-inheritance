@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2757e52e-f258-4a34-996a-c2ef020784e2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../20240131" beforeDir="false" afterPath="$PROJECT_DIR$/../20240131" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01-literal-and-variable-lecture-source" beforeDir="false" afterPath="$PROJECT_DIR$/../chap01-literal-and-variable-lecture-source" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap03-mehod-and-api-lecture-source" beforeDir="false" afterPath="$PROJECT_DIR$/../chap03-mehod-and-api-lecture-source" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04-control-flow-lecture-sourece" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-sourece" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05-array-lecture-source" beforeDir="false" afterPath="$PROJECT_DIR$/../chap05-array-lecture-source" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap07-object-array-lecture-source.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap09-polymorphism-lectur-source/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap09-polymorphism-lectur-source/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap10-api-lecture-source/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap10-api-lecture-source/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap10-api-lecture-source/src/main/java/com/ohjgiraffers/section01/object/book/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap10-api-lecture-source/src/main/java/com/ohjgiraffers/section01/object/book/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap10-api-lecture-source/src/main/java/com/ohjgiraffers/section04/wrapper/Application01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap10-api-lecture-source/src/main/java/com/ohjgiraffers/section04/wrapper/Application01.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2ct4mJa9DFFHZUJAEhxoX7jePU8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.chap12-collection-lecture-source [:Application01.main()].executor": "Run",
+    "Gradle.chap12-collection-lecture-source [:Application02.main()].executor": "Run",
+    "Gradle.chap12-collection-lecture-source [:Application03.main()].executor": "Run",
+    "Gradle.chap12-collection-lecture-source [:Application04.main()].executor": "Run",
+    "Gradle.chap12-collection-lecture-source [:Test1.main()].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Lecture/01_java/01_lecture-source/chap01-literal-and-variable-lecture-source",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Lecture/01_java/01_lecture-source/chap12-collection-lecture-source/src/main/java/org/example/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ohggiraffers.section4.test.Test1" />
+      <module name="chap12-collection-lecture-source.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ohggiraffers.section4.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2757e52e-f258-4a34-996a-c2ef020784e2" name="Changes" comment="" />
+      <created>1708917698285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708917698285</updated>
+      <workItem from="1708917699319" duration="16505000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

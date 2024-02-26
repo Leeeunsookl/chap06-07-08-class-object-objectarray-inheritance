@@ -6,12 +6,12 @@ public class Application01 {
 
         /* 수업목표. Wrapper 클래스에 대해 이해할 수 있다. */
         /* 필기.
-        *   기본 자료형 데이터를 인스턴스화 해야하는 경우들이 발생한다.
+        *   기본 자료형 데이터를 인스턴스화 해야하는 경우들이 발생한다. (인스턴스화 : 클래스로부터 인스턴스를 생성하는 것)
         *   이 때 8가지 자료형의 데이터를 인스턴스화 할 수 있도록 하는 클래스를
         *   Wrapper 클래스라고 한다.(주방에서 사용하는 랩과 같이 감싼다는 의미이다.)
         *  */
 
-        /* 필기.
+        /* 필기.)
         *   기본타입        래퍼클래스
         *   byte            Byte
         *   short           Short
@@ -29,14 +29,14 @@ public class Application01 {
         *   래퍼클래스 타입의 인스턴스를 기본 타입으로 변경하는 것을 UnBoxing이라고 한다.
         *  */
 
-        int intValue = 20;
-        Integer boxingNumber1 = new Integer(intValue);  //인스턴스화(박싱)
+        int 숫자 = 20;
+        Integer boxingNumber1 = new Integer(숫자);  //인스턴스화(박싱)
 
-        int unBoxingNumber1 = boxingNumber1.intValue(); //언박싱(intValue()) 이용
+        int unBoxingNumber1 = boxingNumber1.intValue(); //언박싱(intValue()) intValue 클래스 안에 있는 인트값 반환
 
-        Integer boxingNumber2 = intValue;               //오토 박싱
+        Integer boxingNumber2인스턴스 = 숫자;               //오토 박싱
 
-        int unBoxingNumber2 = boxingNumber2;            //오토 언박싱
+        int unBoxingNumber2 = boxingNumber2인스턴스;            //오토 언박싱
 
         int inum = 20;
         Integer integerNum1= new Integer(20);
