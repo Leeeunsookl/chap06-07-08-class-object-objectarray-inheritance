@@ -24,7 +24,7 @@ public class Application {
          *  1. 이른 초기화(Eager Initialization)
          *  2. 게이른 초기화(Lazy Initialization)*/
 
-        /*목차 1. 이른 초기화 구현*/
+        /*목차 1. 이른 초기화 구현 */
         /*필기. 생성자를 이용하여 인스턴스 생성을 막고, getInstance() 메소드를 호출해야 인스턴스 생성 가능*/
 //        EagerSingleton eager =new EagerSingleton();      생성자가 private 이기 때문에 접근 불가
         EagerSingleton eager1 = EagerSingleton.getInstance();

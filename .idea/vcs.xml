@@ -3,11 +3,13 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/20240131" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TEAMTEST111/test_01" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/chap00-test-lecture-source" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/chap01-literal-and-variable-lecture-source" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/chap02-operator-lecture-source/src/main/java/com/ohgiraffers" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/chap03-mehod-and-api-lecture-source" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/chap04-control-flow-lecture-sourece" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/chap05-array-lecture-source" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test_01" vcs="Git" />
   </component>
 </project>
